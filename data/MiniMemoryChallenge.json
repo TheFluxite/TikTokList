@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=lzangwDyBLA",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Termy555",
+            "link": "https://www.youtube.com/watch?v=tMpp15-3Ow8",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
