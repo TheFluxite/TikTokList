@@ -1,5 +1,5 @@
 {
-    "id": 141845373 ,
+    "id": 141845373,
     "name": "Solar",
     "author": "Termy",
     "creators": ["Termy"],
@@ -85,7 +85,7 @@
             "link": "https://youtu.be/F_SHR74oTm4",
             "percent": 100,
             "hz": 144
-        },
+        }
         
         
     ]
