@@ -103,6 +103,12 @@
             "link": "https://youtu.be/OajvGjUHxyo",
             "percent": 100,
             "hz": 240
+        },
+         {
+            "user": "kwoojek",
+            "link": "https://www.youtube.com/watch?v=OrUL9FZOcis",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
