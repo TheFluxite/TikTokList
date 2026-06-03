@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=0RmQmH8tRBU",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Kusti",
+            "link": "https://www.youtube.com/watch?v=RlX8DI6PyLQ",
+            "percent": 100,
+            "hz": 280
         }
     ]
 }
