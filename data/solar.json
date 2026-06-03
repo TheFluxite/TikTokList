@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=krc5f1T43MM",
             "percent": 100,
             "hz": 60
+        }, 
+        {
+            "user": "ak4c",
+            "link": "https://youtu.be/g7CvaXt3FLM",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
