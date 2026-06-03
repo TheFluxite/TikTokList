@@ -109,6 +109,12 @@
             "link": "https://www.youtube.com/watch?v=OrUL9FZOcis",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "kencelence",
+            "link": "https://www.youtube.com/watch?v=GS3LExEokyg",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
