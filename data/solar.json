@@ -49,6 +49,12 @@
             "link": "https://youtu.be/KA0I9crfssg",
             "percent": 100,
             "hz": 320
+        },
+        {
+            "user": "jeremyballerton",
+            "link": "https://www.youtube.com/watch?v=0RmQmH8tRBU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
