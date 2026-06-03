@@ -5,9 +5,14 @@
     "creators": ["Fluxite"],
     "verifier": "Fluxite",
     "verification": "https://www.youtube.com/watch?v=UWsTgZPUTbM",
-    "percentToQualify": "41 (2.1P)",
+    "percentToQualify": "100",
     "password": "Copyable",
     "records": [
-        {}
+        {
+            "user": "Termy",
+            "link": "https://www.youtube.com/watch?v=m_I-ud7hikg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
