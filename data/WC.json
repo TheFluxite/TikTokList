@@ -19,6 +19,13 @@
             "link": "https://youtu.be/B6kCMyEM6Uk",
             "percent": 100,
             "hz": 144
-        }
+        },
+
+        {
+            "user": "AxolotlW",
+            "link": "https://www.youtube.com/watch?v=ec07T6EvH2M",
+            "percent": 100,
+            "hz": 240
+        }  
     ]
 }
