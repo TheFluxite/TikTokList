@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=hV0H6AdHfCw&t=29s",
     "percentToQualify": "100",
     "password": "Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "erxus",
+            "link": "https://youtube.com/shorts/N2v9e-lffCM?si=l05aNVQrMCJ0dDjU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
