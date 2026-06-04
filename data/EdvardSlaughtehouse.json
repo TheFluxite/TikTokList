@@ -158,7 +158,13 @@
             "link": "https://www.youtube.com/watch?v=ec07T6EvH2M",
             "percent": 100,
             "hz": 240
-        }  
+        },
+        {
+            "user": "epic",
+            "link": "https://youtu.be/TsMqCMNva0Q?si=BdDff9CtJYwHnh2A",
+            "percent": 100,
+            "hz": 60
+        }
 
     ]
 }
