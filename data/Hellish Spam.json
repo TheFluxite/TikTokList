@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Copyable",
     "records": [
+        {
+            "user": "eistee_king1234",
+            "link": "https://youtube.com/shorts/AvBH8z26AXE?si=BOIEeCWn1EhxT8v3",
+            "percent": 100,
+            "hz": 60
+        }
 ]
 }
