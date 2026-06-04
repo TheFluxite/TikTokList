@@ -55,6 +55,13 @@
             "link": "https://www.youtube.com/watch?v=wnDUlmhlRgI",
             "percent": 100,
             "hz": 240
-        }  
+        },
+        
+        {
+            "user": "Danielo",
+            "link": "https://youtu.be/tfX8CUo_cio",
+            "percent": 100,
+            "hz": 320
+        }
     ]
 }
