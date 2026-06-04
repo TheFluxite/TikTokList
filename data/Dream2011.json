@@ -9,10 +9,10 @@
     "password": "Copyable",
     "records": [
         {
-            "user": "MayXax",
-            "link": "https://medal.tv/games/geometry-dash/clips/mQuChLEZMuOz-6r-4?invite=cr-MSwzY1UsMzg2Mzc3NzM0&v=35",
+            "user": "ak4c",
+            "link": "https://www.youtube.com/watch?v=tqwpQwGPmOg",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         },
         {
             "user": "Termy",
@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=o6wDq6WrfFk",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "MayXax",
+            "link": "https://medal.tv/games/geometry-dash/clips/mQuChLEZMuOz-6r-4?invite=cr-MSwzY1UsMzg2Mzc3NzM0&v=35",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
