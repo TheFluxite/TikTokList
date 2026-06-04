@@ -188,6 +188,12 @@
             "link": "https://youtube.com/shorts/Keglx0b96CA?feature=share",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Pablo",
+            "link": "https://youtu.be/PD6odFsxnOU?is=Iv__i-RQebvVaMn1",
+            "percent": 100,
+            "hz": 240
         }
 
     ]
