@@ -98,8 +98,12 @@
             "link": "https://www.youtube.com/watch?v=ljoqh8Ko6Zs",
             "percent": 100,
             "hz": 60
-        }
-        
-        
+        },
+        {
+            "user": "marcelo",
+            "link": "https://youtu.be/trF2g4IP8xA",
+            "percent": 100,
+            "hz": 240
+        }      
     ]
 }
