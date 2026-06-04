@@ -87,12 +87,17 @@
             "percent": 100,
             "hz": 240
          },
-        
          {
             "user": "Lelon",
             "link": "https://youtu.be/EodLG48RJL4",
             "percent": 100,
             "hz": 60
+         },
+         {
+            "user": "zleeb",
+            "link": "https://youtu.be/RV_bkxiNpyw",
+            "percent": 100,
+            "hz": 240
          }
     ]
 }
