@@ -86,6 +86,13 @@
             "link": "https://www.youtube.com/watch?v=IeCW72TW6FQ",
             "percent": 100,
             "hz": 240
+         },
+        
+         {
+            "user": "LelonKameleon",
+            "link": "https://youtu.be/EodLG48RJL4",
+            "percent": 100,
+            "hz": 60
          }
     ]
 }
