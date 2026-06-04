@@ -26,6 +26,13 @@
             "link": "https://www.youtube.com/watch?v=ec07T6EvH2M",
             "percent": 100,
             "hz": 240
-        }  
+        },
+        {
+            "user": "kurt",
+            "link": "https://www.youtube.com/watch?v=RAxztTF4JnE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
     ]
 }
