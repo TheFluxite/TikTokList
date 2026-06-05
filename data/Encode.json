@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Copyable",
     "records": [
+        {
+            "user": "Salad",
+            "link": "https://youtu.be/J-2Th4Mz6s4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Danielo",
+            "link": "https://www.youtube.com/watch?v=L-qNkLUF26M",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
