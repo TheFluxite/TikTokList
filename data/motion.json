@@ -26,6 +26,12 @@
             "link": "https://www.youtube.com/watch?v=F7p8IVnlwxA****",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Salad",
+            "link": "https://youtu.be/LrmzzKlC7EM",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
