@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Copyable",
     "records": [
+        {
+            "user": "rRtiP0",
+            "link": "https://medal.tv/games/geometry-dash/clips/mR15keWi9jGsU9dzf?invite=cr-MSxweWYsNTEzOTM3ODA5",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Danielo",
+            "link": "https://www.youtube.com/watch?v=ylCbwoQBqWM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
