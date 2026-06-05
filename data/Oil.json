@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=e7Sl75FesJU",
             "percent": 100,
             "hz": 240
+        },
+         {
+            "user": "kurtiscoool",
+            "link": "https://www.youtube.com/watch?v=EAEvuZPeDII",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
