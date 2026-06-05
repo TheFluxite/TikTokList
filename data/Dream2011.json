@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=Cl_J-V3VoiI",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "JeremyBallerton",
+            "link": "https://www.youtube.com/watch?v=9mjcA2bWsas",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
