@@ -37,6 +37,24 @@
             "link": "https://www.youtube.com/watch?v=Arun3msUpwM",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "ebonator1",
+            "link": "https://youtu.be/byMRR4vPEq4",
+            "percent": 100,
+            "hz": 200
+        },
+        {
+            "user": "Erik",
+            "link": "https://youtu.be/eYSb9eHnbmU",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "kurtiscoool",
+            "link": "https://www.youtube.com/watch?v=Arun3msUpwM",
+            "percent": 100,
+            "hz": 60
         }
     ]
     }
