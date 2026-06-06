@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=tod3EeaEbg4",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "4genesis",
+            "link": "https://www.youtube.com/watch?v=vvW4dBmga9Q",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
