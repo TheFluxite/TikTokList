@@ -3,17 +3,11 @@
     "name": "lofi",
     "author": "payloooad",
     "creators": ["payloooad"],
-    "verifier": "payloooad",
-    "verification": "https://youtu.be/sv0xyLGbcYg",
+    "verifier": "ak4c",
+    "verification": "https://youtu.be/ArYGANoo5Dg",
     "percentToQualify": "100",
     "password": "Copyable",
     "records": [
-        {
-            "user": "ak4c",
-            "link": "https://youtu.be/ArYGANoo5Dg",
-            "percent": 100,
-            "hz": 240
-        },
         {
             "user": "eistee_king1234",
             "link": "https://youtube.com/shorts/t7S2pDY67cg?si=OXrmxQyAT5bbDfsX",
