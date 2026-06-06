@@ -25,8 +25,19 @@
             "link": "https://youtu.be/kyXiTEkWl64?is=9DDb3isJDzOIUMY1",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "BlackeyePC",
+            "link": "https://youtu.be/1fa3L6RCkXM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Danielo",
+            "link": "https://www.youtube.com/watch?v=KAcALjb4Uqo",
+            "percent": 100,
+            "hz": 240
         }
-        
     ]
 }
 
