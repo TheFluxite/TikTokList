@@ -55,6 +55,18 @@
             "link": "https://youtube.com/shorts/AvBH8z26AXE?si=BOIEeCWn1EhxT8v3",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Danielo",
+            "link": "https://www.youtube.com/watch?v=lCdhKbatPho",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MatesM",
+            "link": "https://youtu.be/GmGRZT1fSq0",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
