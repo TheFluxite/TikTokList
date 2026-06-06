@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Copyable",
     "records": [
+        {
+            "user": "Termy",
+            "link": "https://www.youtube.com/watch?v=LT_iyTEK4m0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
