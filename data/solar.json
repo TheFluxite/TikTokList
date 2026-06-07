@@ -158,6 +158,12 @@
             "link": "https://youtu.be/5A8iyFryjDE",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "MakuGD",
+            "link": "https://www.youtube.com/playlist?list=PLHg8TODa6qWZSkwLb1Ig8OZHKWrNB3Rpa",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
