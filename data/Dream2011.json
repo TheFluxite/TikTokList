@@ -115,6 +115,12 @@
             "link": "https://youtu.be/SBpeGCerBDg",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "fijased",
+            "link": "https://www.youtube.com/watch?v=drPiF3idkc0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
