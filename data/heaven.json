@@ -1,0 +1,18 @@
+{
+    "id": 142150677,
+    "name": "heaven",
+    "author": "DTZOUVALOS",
+    "creators": ["DTZOUVALOS"],
+    "verifier": "Ak4c",
+    "verification": "https://youtu.be/4NAgXsInzVo",
+    "percentToQualify": "100",
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "MayXaX",
+            "link": "",
+            "percent": 100,
+            "hz": 200
+        }
+    ]
+}
