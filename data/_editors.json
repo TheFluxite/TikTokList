@@ -1,12 +1,12 @@
 [
     {
-        "role": "owner",
-        "name": "Fluxite",
-        "link": "https://gdbrowser.com/u/fluxite"
+        "role": "Owner",
+        "name": "MayXaX",
+        "link": "https://www.youtube.com/@MayXaX"
     },
     {
-        "role": "admin",
-        "name": "Eistee King",
+        "role": "Owner",
+        "name": "Ak4c",
         "link": ""
     },
     {
@@ -19,24 +19,14 @@
         "name": "Termy",
         "link": ""
     },
-{
+    {
         "role": "helper",
         "name": "Luky",
         "link": ""
     },
-{
-        "role": "helper",
-        "name": "Myszon",
-        "link": ""
-    },
-{
-        "role": "helper",
-        "name": "mayxax",
-        "link": ""
-    },
     {
-        "role": "dev",
-        "name": "-",
+        "role": "helper",
+        "name": "Myszon12",
         "link": ""
     }
 ]
